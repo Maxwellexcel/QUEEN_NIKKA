@@ -9,7 +9,7 @@
 
 ### 2. GET SESSION ID HERE
  
-<a href="https://queen-nikka-scanner.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://queen-nikka-scanner.vercel.app/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 ### DEPLOY ON RENDER
