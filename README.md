@@ -5,13 +5,11 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/STAR-KING0/Queen_Alya/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/hakisolos/QUEEN_NIKKA/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE
  
-<a href="https://apppp-4a1971b28792.herokuapp.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://arthur-scanner.onrender.com/qr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://queen-nikka-scanner.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 ### DEPLOY ON RENDER
